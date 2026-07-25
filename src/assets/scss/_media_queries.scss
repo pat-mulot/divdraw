@@ -1,0 +1,44 @@
+:root {
+    @include screen-xx-small {
+        --gap-1 : .5rem;
+    }
+    @include screen-x-small {
+        --gap-1 : .75rem;
+    }
+
+    @include screen-small {
+        --gap-1 : 1rem;
+    }
+
+    @include screen-medium {
+        --gap-1 : 1.5rem;
+    }
+
+    @include screen-large {
+        --gap-1 : 2rem;
+    }
+
+    @include screen-x-large {
+        --fs-h1 : xxx-large;
+        --fs-h2 : xx-large;
+        --fs-h3 : x-large;
+        --fs-h4 : large;
+        --fs-h5 : medium;
+        --fs-m : medium;
+        --fs-sm : small;
+        --fs-xs : x-small;
+
+        --gap-1 : 2.5rem;
+    }
+
+    @mixin screen-x-large {
+        @media (min-width: 1200px) {
+            @content;
+        }
+        --gap-1 : 3rem;
+    }
+
+    @include screen-xx-large {
+        --gap-1 : 3.5rem;
+    }
+}

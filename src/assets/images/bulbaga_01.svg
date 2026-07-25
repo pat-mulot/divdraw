@@ -1,0 +1,842 @@
+
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="2048"
+                height="2048"
+              >
+                <foreignObject
+                  width="100%"
+                  height="100%"
+                >
+                  <div xmlns="http://www.w3.org/1999/xhtml" style="
+        position: relative;
+        top: -0px;
+        left: -0px;
+        height: 100%;
+        width: 100%;
+        transform: scaleX(1) scaleY(1);
+        background-color: transparent;
+        transform-origin: top left;
+      ">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="
+        position: relative;
+        top: -0px;
+        left: -0px;
+        height: 100%;
+        width: 100%;
+        transform: scaleX(1) scaleY(1);
+        background-color: transparent;
+        transform-origin: top left;
+      ">
+      <div class="BACKGROUND" style="
+        height: 2048px;
+        width: 2048px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background-color: transparent;
+        opacity: 0.01;
+      "></div>
+              <div class="ELEMENT-0" style="
+                box-sizing: border-box;
+                height: 1024.1px;width: 768.0px;position: absolute;top: 1152.0px;left: 1024.0px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 2;
+              ">
+                <div class="ELEMENT-0-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 767.9900000000001px;height: 1024.0700000000015px;background-color: #8f5902;opacity: 1;clip-path: polygon(
+            /* top left */
+            0.0px
+            0px,
+            /* top right */
+            768.0px
+            0px,
+            /* bottom right */
+            614.4px
+            1024.1px,
+            /* bottom left */
+            153.6px
+            1024.1px
+          );"></div><div style="box-sizing: border-box;width: 767.9900000000001px;height: 1024.0700000000015px;background-color: #593913;opacity: 1;position:absolute;top:0;left:0;clip-path: polygon(
+                /* top left */
+                151.2px
+                1008.1px,
+                /* top right */
+                616.8px
+                1008.1px,
+                /* bottom right */
+                614.4px
+                1024.1px,
+                /* bottom left */
+                153.6px
+                1024.1px
+              );"></div><div style="box-sizing: border-box;width: 767.9900000000001px;height: 1024.0700000000015px;background-color: #593913;opacity: 1;position:absolute;top:0;left:0;clip-path: polygon(
+                  /* top left */
+                  0.0px
+                  0px,
+                  /* top right */
+                  768.0px
+                  0px,
+                  /* bottom right */
+                  765.6px
+                  16.0px,
+                  /* bottom left */
+                  2.4px
+                  16.0px
+                );"></div><div style="box-sizing: border-box;
+                background-color: #593913;
+                height: 1024.1px;
+                width: 768.0px;
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                clip-path: polygon(
+                  /* top left */
+                  0.0px
+                  0px,
+                  /* top right */
+                  16.2px
+                  0.0px,
+                  /* bottom right */
+                  169.8px
+                  1024.1px,
+                  /* bottom left */
+                  153.6px
+                  1024.1px
+                );
+              "></div><div style="box-sizing: border-box;background-color: #593913;
+                  height: 1024.1px;
+                  width: 768.0px;
+                  position: absolute;
+                  top: 0;
+                  right: 0;
+                  clip-path: polygon(
+                  /* top right */
+                  751.8px
+                  0px,
+                  /* top right */
+                  768.0px
+                  0px,
+                  /* bottom right */
+                  614.4px
+                  1024.1px,
+                  /* bottom left */
+                  598.2px
+                  1024.1px
+                );
+                "></div></div></div>
+              <div class="ELEMENT-1" style="
+                box-sizing: border-box;
+                height: 315.9px;width: 319.2px;position: absolute;top: 930.7px;left: 1222.0px;transform:
+        translate(-50%,-50%)
+        rotate(-19.1deg);z-index: 3;
+              ">
+                <div class="ELEMENT-1-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 319.22999999999945px;height: 315.8500000000002px;background-color: #73d216;opacity: 1;border: solid 16px #4e9a06;border-top-left-radius: 50%;border-top-right-radius: 50%;border-bottom-right-radius: 50%;border-bottom-left-radius: 50%;"></div></div></div>
+              <div class="ELEMENT-2" style="
+                box-sizing: border-box;
+                height: 315.9px;width: 319.2px;position: absolute;top: 962.6px;left: 830.6px;transform:
+        translate(-50%,-50%)
+        rotate(19.5deg);z-index: 4;
+              ">
+                <div class="ELEMENT-2-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 319.22999999999945px;height: 315.8500000000002px;background-color: #73d216;opacity: 1;border: solid 16px #4e9a06;border-top-left-radius: 50%;border-top-right-radius: 50%;border-bottom-right-radius: 50%;border-bottom-left-radius: 50%;"></div></div></div>
+              <div class="ELEMENT-3" style="
+                box-sizing: border-box;
+                height: 256.0px;width: 256.0px;position: absolute;top: 902.7px;left: 1200.7px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 5;
+              ">
+                <div class="ELEMENT-3-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 255.96000000000024px;height: 255.96000000000015px;background-color: #fce94f;opacity: 1;border: solid 16px #edd400;border-top-left-radius: 50%;border-top-right-radius: 50%;border-bottom-right-radius: 50%;border-bottom-left-radius: 50%;"></div></div></div>
+              <div class="ELEMENT-4" style="
+                box-sizing: border-box;
+                height: 256.0px;width: 256.0px;position: absolute;top: 902.6px;left: 1200.7px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 6;
+              ">
+                <div class="ELEMENT-4-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 255.98000000000025px;height: 255.9900000000004px;background-color: transparent;opacity: 0.56;border-top: solid 80px #f57900;border-top-left-radius: 50%;border-top-right-radius: 50%;border-bottom-right-radius: 50%;border-bottom-left-radius: 50%;"></div></div></div>
+              <div class="ELEMENT-5" style="
+                box-sizing: border-box;
+                height: 256.0px;width: 256.0px;position: absolute;top: 934.7px;left: 860.7px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 7;
+              ">
+                <div class="ELEMENT-5-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 255.9500000000003px;height: 256.02000000000044px;background-color: #fce94f;opacity: 1;border: solid 16px #edd400;border-top-left-radius: 50%;border-top-right-radius: 50%;border-bottom-right-radius: 50%;border-bottom-left-radius: 50%;"></div></div></div>
+              <div class="ELEMENT-6" style="
+                box-sizing: border-box;
+                height: 256.0px;width: 256.0px;position: absolute;top: 934.6px;left: 860.7px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 8;
+              ">
+                <div class="ELEMENT-6-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 256.01000000000016px;height: 256.0100000000004px;background-color: transparent;opacity: 0.56;border-top: solid 80px #f57900;border-top-left-radius: 50%;border-top-right-radius: 50%;border-bottom-right-radius: 50%;border-bottom-left-radius: 50%;"></div></div></div>
+              <div class="ELEMENT-7" style="
+                box-sizing: border-box;
+                height: 384.0px;width: 128.0px;position: absolute;top: 778.0px;left: 1241.3px;transform:
+        translate(-50%,-50%)
+        rotate(-95.7deg);z-index: 9;
+              ">
+                <div class="ELEMENT-7-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 128.01999999999916px;height: 384.0200000000006px;background-color: #cc0000;opacity: 1;clip-path: polygon(
+            /* top left */
+            25.6px
+            0px,
+            /* top right */
+            115.2px
+            0px,
+            /* bottom right */
+            128.0px
+            384.0px,
+            /* bottom left */
+            0.0px
+            384.0px
+          );"></div><div style="box-sizing: border-box;width: 128.01999999999916px;height: 384.0200000000006px;background-color: #a40000;opacity: 1;position:absolute;top:0;left:0;clip-path: polygon(
+                /* top left */
+                1.1px
+                368.0px,
+                /* top right */
+                127.5px
+                368.0px,
+                /* bottom right */
+                128.0px
+                384.0px,
+                /* bottom left */
+                0.0px
+                384.0px
+              );"></div><div style="box-sizing: border-box;width: 128.01999999999916px;height: 384.0200000000006px;background-color: #a40000;opacity: 1;position:absolute;top:0;left:0;clip-path: polygon(
+                  /* top left */
+                  25.6px
+                  0px,
+                  /* top right */
+                  115.2px
+                  0px,
+                  /* bottom right */
+                  115.8px
+                  16.0px,
+                  /* bottom left */
+                  24.5px
+                  16.0px
+                );"></div><div style="box-sizing: border-box;
+                background-color: #a40000;
+                height: 384.0px;
+                width: 128.0px;
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                clip-path: polygon(
+                  /* top left */
+                  25.6px
+                  0px,
+                  /* top right */
+                  41.6px
+                  0.0px,
+                  /* bottom right */
+                  16.0px
+                  384.0px,
+                  /* bottom left */
+                  0.0px
+                  384.0px
+                );
+              "></div><div style="box-sizing: border-box;background-color: #a40000;
+                  height: 384.0px;
+                  width: 128.0px;
+                  position: absolute;
+                  top: 0;
+                  right: 0;
+                  clip-path: polygon(
+                  /* top right */
+                  99.2px
+                  0px,
+                  /* top right */
+                  115.2px
+                  0px,
+                  /* bottom right */
+                  128.0px
+                  384.0px,
+                  /* bottom left */
+                  112.0px
+                  384.0px
+                );
+                "></div></div></div>
+              <div class="ELEMENT-8" style="
+                box-sizing: border-box;
+                height: 384.0px;width: 127.9px;position: absolute;top: 796.7px;left: 806.7px;transform:
+        translate(-50%,-50%)
+        rotate(94.6deg);z-index: 10;
+              ">
+                <div class="ELEMENT-8-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 127.91000000000003px;height: 383.9900000000009px;background-color: #cc0000;opacity: 1;clip-path: polygon(
+            /* top left */
+            25.6px
+            0px,
+            /* top right */
+            115.1px
+            0px,
+            /* bottom right */
+            127.9px
+            384.0px,
+            /* bottom left */
+            0.0px
+            384.0px
+          );"></div><div style="box-sizing: border-box;width: 127.91000000000003px;height: 383.9900000000009px;background-color: #a40000;opacity: 1;position:absolute;top:0;left:0;clip-path: polygon(
+                /* top left */
+                1.1px
+                368.0px,
+                /* top right */
+                127.4px
+                368.0px,
+                /* bottom right */
+                127.9px
+                384.0px,
+                /* bottom left */
+                0.0px
+                384.0px
+              );"></div><div style="box-sizing: border-box;width: 127.91000000000003px;height: 383.9900000000009px;background-color: #a40000;opacity: 1;position:absolute;top:0;left:0;clip-path: polygon(
+                  /* top left */
+                  25.6px
+                  0px,
+                  /* top right */
+                  115.1px
+                  0px,
+                  /* bottom right */
+                  115.7px
+                  16.0px,
+                  /* bottom left */
+                  24.5px
+                  16.0px
+                );"></div><div style="box-sizing: border-box;
+                background-color: #a40000;
+                height: 384.0px;
+                width: 127.9px;
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                clip-path: polygon(
+                  /* top left */
+                  25.6px
+                  0px,
+                  /* top right */
+                  41.6px
+                  0.0px,
+                  /* bottom right */
+                  16.0px
+                  384.0px,
+                  /* bottom left */
+                  0.0px
+                  384.0px
+                );
+              "></div><div style="box-sizing: border-box;background-color: #a40000;
+                  height: 384.0px;
+                  width: 127.9px;
+                  position: absolute;
+                  top: 0;
+                  right: 0;
+                  clip-path: polygon(
+                  /* top right */
+                  99.1px
+                  0px,
+                  /* top right */
+                  115.1px
+                  0px,
+                  /* bottom right */
+                  127.9px
+                  384.0px,
+                  /* bottom left */
+                  111.9px
+                  384.0px
+                );
+                "></div></div></div>
+              <div class="ELEMENT-9" style="
+                box-sizing: border-box;
+                height: 160.0px;width: 192.0px;position: absolute;top: 1392.0px;left: 928.0px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 12;
+              ">
+                <div class="ELEMENT-9-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 192px;height: 160.0100000000001px;background-color: #ffffff;opacity: 1;border: solid 6px #555753;"></div></div></div>
+              <div class="ELEMENT-10" style="
+                box-sizing: border-box;
+                height: 160.0px;width: 192.0px;position: absolute;top: 1392.0px;left: 1120.0px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 13;
+              ">
+                <div class="ELEMENT-10-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 192.01000000000008px;height: 159.97000000000008px;background-color: #ffffff;opacity: 1;border: solid 6px #555753;"></div></div></div>
+              <div class="ELEMENT-11" style="
+                box-sizing: border-box;
+                height: 160.0px;width: 96.0px;position: absolute;top: 1392.0px;left: 1264.0px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 14;
+              ">
+                <div class="ELEMENT-11-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 96.00000000000006px;height: 159.97000000000008px;background-color: #ffffff;opacity: 1;border: solid 6px #555753;border-top-left-radius: 0%;border-top-right-radius: 80%;border-bottom-right-radius: 0%;border-bottom-left-radius: 0%;"></div></div></div>
+              <div class="ELEMENT-12" style="
+                box-sizing: border-box;
+                height: 160.0px;width: 96.0px;position: absolute;top: 1392.0px;left: 784.0px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 15;
+              ">
+                <div class="ELEMENT-12-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 96px;height: 160.0100000000001px;background-color: #ffffff;opacity: 1;border: solid 6px #555753;border-top-left-radius: 80%;border-top-right-radius: 0%;border-bottom-right-radius: 0%;border-bottom-left-radius: 0%;"></div></div></div>
+              <div class="ELEMENT-13" style="
+                box-sizing: border-box;
+                height: 96.0px;width: 192.0px;position: absolute;top: 1520.0px;left: 928.0px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 16;
+              ">
+                <div class="ELEMENT-13-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 192px;height: 96.0100000000001px;background-color: #ffffff;opacity: 1;border: solid 6px #555753;"></div></div></div>
+              <div class="ELEMENT-14" style="
+                box-sizing: border-box;
+                height: 96.0px;width: 192.0px;position: absolute;top: 1520.0px;left: 1120.0px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 17;
+              ">
+                <div class="ELEMENT-14-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 192px;height: 96.0100000000001px;background-color: #ffffff;opacity: 1;border: solid 6px #555753;"></div></div></div>
+              <div class="ELEMENT-15" style="
+                box-sizing: border-box;
+                height: 96.0px;width: 96.0px;position: absolute;top: 1520.0px;left: 1264.0px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 18;
+              ">
+                <div class="ELEMENT-15-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 96px;height: 96.0100000000001px;background-color: #ffffff;opacity: 1;border: solid 6px #555753;"></div></div></div>
+              <div class="ELEMENT-16" style="
+                box-sizing: border-box;
+                height: 96.0px;width: 96.0px;position: absolute;top: 1520.0px;left: 784.0px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 19;
+              ">
+                <div class="ELEMENT-16-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 96px;height: 96.0100000000001px;background-color: #ffffff;opacity: 1;border: solid 6px #555753;"></div></div></div>
+              <div class="ELEMENT-17" style="
+                box-sizing: border-box;
+                height: 320.0px;width: 320.0px;position: absolute;top: 1440.0px;left: 864.0px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 20;
+              ">
+                <div class="ELEMENT-17-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 320.0200000000002px;height: 320.0299999999997px;background-color: transparent;opacity: 1;border-top: solid 48px #a40000;border-bottom: solid 48px #a40000;border-left: solid 48px #a40000;border-top-left-radius: 50%;border-top-right-radius: 0%;border-bottom-right-radius: 0%;border-bottom-left-radius: 0%;"></div></div></div>
+              <div class="ELEMENT-18" style="
+                box-sizing: border-box;
+                height: 320.0px;width: 320.1px;position: absolute;top: 1440.0px;left: 1184.0px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 21;
+              ">
+                <div class="ELEMENT-18-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 320.05000000000007px;height: 320.0299999999997px;background-color: transparent;opacity: 1;border-top: solid 48px #a40000;border-bottom: solid 48px #a40000;border-right: solid 48px #a40000;border-top-left-radius: 0%;border-top-right-radius: 50%;border-bottom-right-radius: 0%;border-bottom-left-radius: 0%;"></div></div></div>
+              <div class="ELEMENT-19" style="
+                box-sizing: border-box;
+                height: 361.4px;width: 272.6px;position: absolute;top: 462.6px;left: 1423.0px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 22;
+              ">
+                <div class="ELEMENT-19-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 272.56999999999977px;height: 361.3700000000001px;background-color: #73d216;opacity: 1;border: solid 16px #3aaf7b;border-top-left-radius: 100%;border-top-right-radius: 0%;border-bottom-right-radius: 100%;border-bottom-left-radius: 0%;"></div></div></div>
+              <div class="ELEMENT-20" style="
+                box-sizing: border-box;
+                height: 455.7px;width: 276.4px;position: absolute;top: 405.7px;left: 1321.5px;transform:
+        translate(-50%,-50%)
+        rotate(-8.8deg);z-index: 23;
+              ">
+                <div class="ELEMENT-20-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 276.35999999999996px;height: 455.7299999999999px;background-color: #729fcf;opacity: 1;border: solid 16px #3465a4;border-top-left-radius: 100%;border-top-right-radius: 0%;border-bottom-right-radius: 100%;border-bottom-left-radius: 0%;"></div></div></div>
+              <div class="ELEMENT-21" style="
+                box-sizing: border-box;
+                height: 505.4px;width: 433.3px;position: absolute;top: 363.7px;left: 787.3px;transform:
+        translate(-50%,-50%)
+        rotate(12.6deg);z-index: 24;
+              ">
+                <div class="ELEMENT-21-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 433.2899999999996px;height: 505.4299999999995px;background-color: #729fcf;opacity: 1;border: solid 16px #3465a4;border-top-left-radius: 0%;border-top-right-radius: 100%;border-bottom-right-radius: 0%;border-bottom-left-radius: 100%;"></div></div></div>
+              <div class="ELEMENT-22" style="
+                box-sizing: border-box;
+                height: 374.6px;width: 413.0px;position: absolute;top: 462.6px;left: 614.8px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 25;
+              ">
+                <div class="ELEMENT-22-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 413.0199999999998px;height: 374.6300000000001px;background-color: #75507b;opacity: 1;border: solid 16px #5c3566;border-top-left-radius: 0%;border-top-right-radius: 100%;border-bottom-right-radius: 0%;border-bottom-left-radius: 100%;"></div></div></div>
+              <div class="ELEMENT-23" style="
+                box-sizing: border-box;
+                height: 559.4px;width: 287.1px;position: absolute;top: 350.8px;left: 1181.0px;transform:
+        translate(-50%,-50%)
+        rotate(-11.1deg);z-index: 26;
+              ">
+                <div class="ELEMENT-23-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 287.1499999999995px;height: 559.3600000000004px;background-color: #edd400;opacity: 1;border: solid 16px #c4a000;border-top-left-radius: 100%;border-top-right-radius: 0%;border-bottom-right-radius: 100%;border-bottom-left-radius: 0%;"></div></div></div>
+              <div class="ELEMENT-24" style="
+                box-sizing: border-box;
+                height: 578.9px;width: 339.6px;position: absolute;top: 338.2px;left: 1002.8px;transform:
+        translate(-50%,-50%)
+        rotate(19.7deg);z-index: 27;
+              ">
+                <div class="ELEMENT-24-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 339.56000000000006px;height: 578.8700000000002px;background-color: #cc0000;opacity: 1;border: solid 16px #a40000;border-top-left-radius: 0%;border-top-right-radius: 100%;border-bottom-right-radius: 0%;border-bottom-left-radius: 100%;"></div></div></div>
+              <div class="ELEMENT-25" style="
+                box-sizing: border-box;
+                height: 160.0px;width: 192.0px;position: absolute;top: 1168.0px;left: 928.0px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 28;
+              ">
+                <div class="ELEMENT-25-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 192.00000000000037px;height: 159.9799999999996px;background-color: #cc0000;opacity: 1;border: solid 16px #a40000;border-top-left-radius: 100%;border-top-right-radius: 0%;border-bottom-right-radius: 0%;border-bottom-left-radius: 25%;"></div></div></div>
+              <div class="ELEMENT-26" style="
+                box-sizing: border-box;
+                height: 160.0px;width: 192.0px;position: absolute;top: 1168.0px;left: 1120.0px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 29;
+              ">
+                <div class="ELEMENT-26-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 191.9800000000004px;height: 159.9999999999997px;background-color: #cc0000;opacity: 1;border: solid 16px #a40000;border-top-left-radius: 0%;border-top-right-radius: 100%;border-bottom-right-radius: 25%;border-bottom-left-radius: 0%;"></div></div></div>
+              <div class="ELEMENT-27" style="
+                box-sizing: border-box;
+                height: 304.0px;width: 323.1px;position: absolute;top: 1825.0px;left: 1023.0px;transform:
+        translate(-50%,-50%)
+        rotate(-43.8deg);z-index: 30;
+              ">
+                <div class="ELEMENT-27-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 323.0599999999999px;height: 303.9599999999999px;background-color: #73d216;opacity: 1;border: solid 16px #3aaf7b;border-top-left-radius: 100%;border-top-right-radius: 0%;border-bottom-right-radius: 100%;border-bottom-left-radius: 0%;"></div></div></div>
+              <div class="ELEMENT-28" style="
+                box-sizing: border-box;
+                height: 127.9px;width: 255.9px;position: absolute;top: 1312.0px;left: 1024.1px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 31;
+              ">
+                <div class="ELEMENT-28-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 255.94000000000028px;height: 127.94999999999976px;background-color: #cc0000;opacity: 1;clip-path: polygon(
+            /* top left */
+            0.0px
+            0px,
+            /* top right */
+            255.9px
+            0px,
+            /* bottom right */
+            128.0px
+            127.9px,
+            /* bottom left */
+            128.0px
+            127.9px
+          );"></div><div style="box-sizing: border-box;width: 255.94000000000028px;height: 127.94999999999976px;background-color: #a40000;opacity: 1;position:absolute;top:0;left:0;clip-path: polygon(
+                /* top left */
+                112.0px
+                111.9px,
+                /* top right */
+                144.0px
+                111.9px,
+                /* bottom right */
+                128.0px
+                127.9px,
+                /* bottom left */
+                128.0px
+                127.9px
+              );"></div><div style="box-sizing: border-box;
+                background-color: #a40000;
+                height: 127.9px;
+                width: 255.9px;
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                clip-path: polygon(
+                  /* top left */
+                  0px
+                  0px,
+                  /* top right */
+                  22.6px
+                  0px,
+                  /* bottom right */
+                  139.3px
+                  116.6px,
+                  /* ?? */
+                  128.0px
+                  127.9px,
+                  /* bottom left */
+                  128.0px
+                  127.9px
+                );
+              "></div><div style="box-sizing: border-box;background-color: #a40000;
+                  height: 127.9px;
+                  width: 255.9px;
+                  position: absolute;
+                  top: 0;
+                  right: 0;
+                  clip-path: polygon(
+                  /* top left */
+                  233.3px
+                  0px,
+                  /* top right */
+                  255.9px
+                  0px,
+                  /* bottom right */
+                  128.0px
+                  127.9px,
+                  /* ?? */
+                  128.0px
+                  127.9px,
+                  /* bottom left */
+                  116.7px
+                  116.6px
+                );
+                "></div></div></div>
+              <div class="ELEMENT-29" style="
+                box-sizing: border-box;
+                height: 320.0px;width: 255.9px;position: absolute;top: 1088.0px;left: 1024.1px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 32;
+              ">
+                <div class="ELEMENT-29-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 255.94000000000028px;height: 320.0499999999999px;background-color: #cc0000;opacity: 1;clip-path: polygon(
+            /* top left */
+            115.2px
+            0px,
+            /* top right */
+            140.8px
+            0px,
+            /* bottom right */
+            255.9px
+            320.0px,
+            /* bottom left */
+            0.0px
+            320.0px
+          );"></div><div style="box-sizing: border-box;width: 255.94000000000028px;height: 320.0499999999999px;background-color: #a40000;opacity: 1;position:absolute;top:0;left:0;clip-path: polygon(
+                  /* top left */
+                  115.2px
+                  0px,
+                  /* top right */
+                  140.8px
+                  0px,
+                  /* bottom right */
+                  146.5px
+                  16.0px,
+                  /* bottom left */
+                  109.4px
+                  16.0px
+                );"></div><div style="box-sizing: border-box;
+                background-color: #a40000;
+                height: 320.0px;
+                width: 255.9px;
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                clip-path: polygon(
+                  /* top left */
+                  115.2px
+                  0px,
+                  /* top right */
+                  132.2px
+                  0.0px,
+                  /* bottom right */
+                  17.0px
+                  320.0px,
+                  /* bottom left */
+                  0.0px
+                  320.0px
+                );
+              "></div><div style="box-sizing: border-box;background-color: #a40000;
+                  height: 320.0px;
+                  width: 255.9px;
+                  position: absolute;
+                  top: 0;
+                  right: 0;
+                  clip-path: polygon(
+                  /* top right */
+                  123.8px
+                  0px,
+                  /* top right */
+                  140.8px
+                  0px,
+                  /* bottom right */
+                  255.9px
+                  320.0px,
+                  /* bottom left */
+                  238.9px
+                  320.0px
+                );
+                "></div></div></div></div></div>
+                </foreignObject>
+              </svg>
+            

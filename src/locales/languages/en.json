@@ -1,0 +1,107 @@
+{
+    "submit" : "Submit",
+    "user" : "User",
+    "login": "Login",
+    "logout": "Logout",
+    "signin": "Sign in",
+    "signup": "Sign up",
+    "field_required_error": "Field required",
+    "field_type_error": "The field does not contain the correct character type",
+    "field_type_str_error": "The field must contain text only",
+    "products": "Products",
+    "403_msg" : "Vous n'avez pas les droits suffisant pour accéder a cette ressource...",
+    "fr": "fr",
+    "en": "en",
+    "profile": "Profile",
+    "user_not_authenticated_msg" : "You are not logged in",
+    "session_expired_msg" : "Session has expired",
+    "error_msg_title" : "Error !",
+    "success_msg_title" : "Succes !",
+    "bad_credentials_msg" : "Bad credentials",
+    "loggin_error_msg" : "Unable to connect",
+    "loggin_success_welcome_msg" : "Welcome",
+    "fr_flag_img" : "French flag picture",
+    "en_flag_img" : "English flag picture",
+    "product_image_alt" : "Product image",
+    "product" : "Product",
+    "products_list" : "Products list",
+    "products_imgs" : "Products images",
+    "products_imgs_list" : "Products images list",
+    "created_at" : "Created at",
+    "updated_at" : "Updated at",
+    "image" : "Image",
+    "user_id" : "User ID",
+    "date" : "Date",
+    "devise" : "Currency",
+    "status" : "Status",
+    "amount" : "Amount",
+    "hide" : "Hide",
+    "quantity" : "Quantity",
+    "description" : "Description",
+    "name" : "Name",
+    "id" : "ID",
+    "creator" : "Creator",
+    "move_items_tool" : "Move",
+    "element_pos_y": "Y axis",
+    "element_pos_x": "X axis",
+    "element_width": "Width",
+    "element_height": "Height",
+    "resize_items_tool": "Resize",
+    "rotate_items_tool" : "Rotation",
+    "items_list": "Items list",
+    "document_tool" : "Document",
+    "document_height" : "Height",
+    "document_width" : "Width",
+    "shape_items_tool" : "Shapes"
+    ,"triangle_shape_top_left" : "Top left angle"
+    ,"triangle_shape_top_right" : "Top right angle"
+    ,"triangle_shape_bottom_left" : "Bottom left angle"
+    ,"triangle_shape_bottom_right" : "Bottom right angle"
+    ,"elements_save_cancel_success" : "Backup cleared successfully"
+    ,"elements_save_success" : "Backup completed successfully"
+    ,"no_element_selected" : "No item selected"
+    ,"elements_nb_limit_error" : "The number of elements exceeds the limit"
+    ,"no_element_to_delete" : "No items to delete"
+    ,"shape_list" : "Shapes list"
+    ,"round_shape_top_right" : "Top right round"
+    ,"round_shape_bottom_right" : "Bottom right round"
+    ,"round_shape_bottom_left" : "Bottom left round"
+    ,"round_shape_top_left" : "Top left round"
+    ,"color_items_tool" : "Colors"
+    ,"color_element" : "Colors"
+    ,"opacity_element" : "Opacity"
+    ,"opacity_frame" : "Opacity"
+    ,"border_menu" : "Borders"
+    ,"border_width_menu" : "Border width"
+    ,"border_type_menu" : "Border type"
+    ,"border_color" : "Colors"
+    ,"document_frame_size": "Document frame size"
+    ,"export_size": "Export size"
+    ,"color_picker" : "Pick a color"
+    ,"cancel_btn": "Cancel"
+    ,"confirm_btn": "Ok"
+    ,"delete_all_elements_confirm_msg": "Remove all elements ?"
+    ,"open_as": "Open as..."
+    ,"save_as": "Save as..."
+    ,"export_file_form": "Export file"
+    ,"export_filename": "File name"
+    ,"export_type_select": "File type"
+    ,"export_as": "Export as..."
+    ,"save_local": "Save"
+    ,"color_menu_title": "Colors"
+    ,"element_color": "Fill Color"
+    ,"element_borders": "Border Color"
+    ,"group_elements_list": "Elements list"
+    ,"export_width": "Width"
+    ,"export_height": "Height"
+    ,"maintain_ratio": "Aspect ratio"
+    ,"title_icons_list": "Icons list"
+    ,"title_icons_borders_list": "Border icons"
+    ,"title_icons_shapes_list": "Shapes icons"
+    ,"title_cursors_list": "Cursors"
+    ,"title_images_list": "Images"
+    ,"shapes_filter": "Shapes"
+    ,"borders_filter": "Borders"
+    ,"letters_filter": "Letters"
+    ,"line_shape": "Line"
+}

@@ -1,0 +1,269 @@
+:root {
+    // sizing : 
+    --screen-xxs: 275.98px;
+    --screen-xs: 276px;
+    --screen-s: 576px;
+    --screen-m: 768px;
+    --screen-l: 992px;
+    --screen-xl: 1200px;
+    --screen-xxl: 1400px;
+    --border-sz-0 : 0.01rem;
+    --border-sz-1 : 1px;
+    --border-sz-2 : 2px;
+    --btn-size: 2rem;
+
+    // spacing :
+    --gap : 1rem;
+    --gap-1 : 1rem;
+    --gap-1-1 : 1rem;
+    --gap-1-2 : 0.5rem;
+    --gap-1-4 : 0.25rem;
+    --gap-1-8 : 0.125rem;
+    --gap-2 : 1.5rem;
+    --gap-2-2 : 1.25rem;
+    --gap-2-3 : 0.75rem;
+    --gap-3 : 2rem;
+
+    // colors fix :
+    --wt-70-fix: rgba(255, 255, 255, 0.7);
+    --wt-90-fix: rgba(255, 255, 255, 0.9);
+
+    // base colors :
+    --wt: white;
+    --bk: black;
+    --color-dark-1: #2E2D2D;
+    --color-dark-2: #444243;
+    --color-light-1: #9A8C92;
+    --color-light-2: #F7F6F6;
+    --color-light-3: #7a7a7a;
+    // --base-color-1 : #2c3e50;
+    --base-color-1 : #2E2D2D;
+    --text-color-1 : #2E2D2D;
+    --text-color-2 : #444243;
+    --red-color-1 : #6d3844;
+    --red-color-2 : #8a4354;
+    --red-color-3 : #a34b60;
+    --green-color-1 : #42b983;
+    --green-color-2 : #49dd9b;
+    --green-color-3 : #47eba1;
+    --main-bg-color: rgb(238, 238, 238);
+    --main-bg-color-2: rgb(214, 214, 214);
+    --main-bg-color-2: rgb(200, 200, 200);
+    --font-color-1: rgb(36, 36, 36);
+    --font-color-2: rgb(61, 61, 61);
+    --font-color-3: rgb(148, 148, 148);
+    
+    // success
+    --success-color-1: rgb(25, 153, 74);
+    --success-color-2: rgb(33, 218, 94);
+    --success-color-t1: rgba(25, 153, 74, 0.85);
+    --success-color-t2: rgba(33, 218, 94, 0.85);
+    --success-bg-1: rgb(230, 255, 238);
+    --success-bg-2: rgba(25, 153, 74, 0.3);
+
+    // danger
+    --danger-color-1: rgb(185, 43, 43);
+    --danger-color-2: rgb(255, 27, 27);
+    --danger-color-t1: rgba(185, 43, 43, 0.85);
+    --danger-color-t2: rgba(255, 27, 27, 0.85);
+    --danger-bg-1: rgb(255, 234, 234);
+    --danger-bg-2: rgba(185, 43, 43, 0.3);
+
+    // warning
+    --warning-color-1: rgb(206, 147, 19);
+    --warning-color-2: rgb(255, 201, 22);
+    --warning-color-t1: rgba(206, 147, 19, 0.85);
+    --warning-color-t2: rgba(255, 201, 22, 0.85);
+    --warning-bg-1: rgb(248, 236, 211);
+    --warning-bg-2: rgba(206, 147, 19, 0.3);
+
+    // info
+    --info-color-1: rgb(65, 84, 168);
+    --info-color-2: rgb(22, 170, 255);
+    --info-color-t1: rgba(65, 84, 168, 0.85);
+    --info-color-t2: rgba(22, 170, 255, 0.85);
+    --info-bg-1: rgb(212, 220, 255);
+    --info-bg-2: rgba(212, 220, 255, 0.3);
+
+    // transparent colors :
+    --wt-100: rgba(255, 255, 255);
+    --wt-95: rgba(255, 255, 255, 0.95);
+    --wt-90: rgba(255, 255, 255, 0.9);
+    --wt-80: rgba(255, 255, 255, 0.8);
+    --wt-70: rgba(255, 255, 255, 0.7);
+    --wt-60: rgba(255, 255, 255, 0.6);
+    --wt-50: rgba(255, 255, 255, 0.5);
+    --wt-40: rgba(255, 255, 255, 0.4);
+    --wt-35: rgba(255, 255, 255, 0.35);
+    --wt-30: rgba(255, 255, 255, 0.3);
+    --wt-20: rgba(255, 255, 255, 0.2);
+    --wt-15: rgba(255, 255, 255, 0.15);
+    --wt-10: rgba(255, 255, 255, 0.1);
+    --wt-05: rgba(255, 255, 255, 0.05);
+    --bk-100: rgba(0, 0, 0);
+    --bk-95: rgba(0, 0, 0, 0.95);
+    --bk-90: rgba(0, 0, 0, 0.9);
+    --bk-80: rgba(0, 0, 0, 0.8);
+    --bk-70: rgba(0, 0, 0, 0.7);
+    --bk-60: rgba(0, 0, 0, 0.6);
+    --bk-50: rgba(0, 0, 0, 0.5);
+    --bk-40: rgba(0, 0, 0, 0.4);
+    --bk-35: rgba(0, 0, 0, 0.35);
+    --bk-30: rgba(0, 0, 0, 0.3);
+    --bk-20: rgba(0, 0, 0, 0.2);
+    --bk-15: rgba(0, 0, 0, 0.15);
+    --bk-10: rgba(0, 0, 0, 0.1);
+    --bk-05: rgba(0, 0, 0, 0.05);
+
+    // colored items :
+    --link-color : var(--red-color-1);
+    --link-color-active : var(--red-color-2);
+    --link-color-hover : var(--red-color-3);
+    --btn-color-1 : var(--red-color-1);
+    --btn-bg-1: palegoldenrod;
+    --btn-bg-1-active: lightgreen;
+    --btn-bg-1-hover: lightgoldenrodyellow;
+    --btn-bg-1-disabled: var(--bk-50);
+    --btn-color-1-active : var(--green-color-2);
+    --btn-color-1-disabled : var(--bk-50);
+    --btn-color-1-hover : var(--green-color-2);
+    --disabled-color-1 : var(--color-light-1);
+    --disabled-color-2 : var(--color-light-2);
+    --input-color : var(--green-color-1);
+    --input-bg-color : var(--green-color-1);
+    --dropdown-bg-color : var(--main-bg-color);
+    --border-color-1 : var(--bk-50);
+    --border-color-2 : var(--bk-20);
+
+    // fonts :
+    --fs-h1 : xx-large;
+    --fs-h2 : x-large;
+    --fs-h3 : large;
+    --fs-h4 : medium;
+    --fs-h5 : small;
+    --fs-m : small;
+    --fs-sm : x-small;
+    --fs-xs : xx-small;
+
+    // animations :
+    --anim-duration-1 : 0.05s;
+    --anim-duration-2 : 0.1s;
+    --anim-duration-3 : 0.2s;
+    --anim-duration-4 : 0.3s;
+
+    // @media (min-width: 1200px) {
+    //     --fs-h1 : xxx-large;
+    //     --fs-h2 : xx-large;
+    //     --fs-h3 : x-large;
+    //     --fs-h4 : large;
+    //     --fs-h5 : medium;
+    //     --fs-m : medium;
+    //     --fs-sm : small;
+    //     --fs-xs : x-small;
+    // }
+}
+
+body.dm {
+    // base colors :
+    --wt: black;
+    --bk: white;
+    --color-dark-1: #F7F6F6;
+    --color-dark-2: #9A8C92;
+    --color-light-1: #2E2D2D;
+    --color-light-2: #444243;
+    --color-light-3: #181818;
+    // --base-color-1 : #76a5d4;
+    --base-color-1 : #F7F6F6;
+    --text-color-1 : #F7F6F6;
+    --text-color-2 : #9A8C92;
+    --red-color-1 : #42b983;
+    --red-color-2 : #49dd9b;
+    --red-color-3 : #47eba1;
+    --green-color-1 : #6d3844;
+    --green-color-2 : #8a4354;
+    --green-color-3 : #a34b60;
+    --main-bg-color: rgb(20, 20, 20);
+    --main-bg-color-2: rgb(34, 34, 34);
+    --main-bg-color-3: rgb(48, 48, 48);
+    --font-color-1: rgb(226, 226, 226);
+    --font-color-2: rgb(201, 201, 201);
+    --font-color-3: rgb(114, 114, 114);
+
+    // success
+    --success-color-1: rgb(25, 153, 74);
+    --success-color-2: rgb(33, 218, 94);
+    --success-color-t1: rgba(25, 153, 74, 0.85);
+    --success-color-t2: rgba(33, 218, 94, 0.85);
+    --success-bg-1: rgb(230, 255, 238);
+
+    // danger
+    --danger-color-1: rgb(185, 43, 43);
+    --danger-color-2: rgb(255, 27, 27);
+    --danger-color-t1: rgba(185, 43, 43, 0.85);
+    --danger-color-t2: rgba(255, 27, 27, 0.85);
+    --danger-bg-1: rgb(255, 234, 234);
+
+    // warning
+    --warning-color-1: rgb(206, 147, 19);
+    --warning-color-2: rgb(255, 201, 22);
+    --warning-color-t1: rgba(206, 147, 19, 0.85);
+    --warning-color-t2: rgba(255, 201, 22, 0.85);
+    --warning-bg-1: rgb(248, 236, 211);
+
+    // info
+    --info-color-1: rgb(65, 84, 168);
+    --info-color-2: rgb(22, 170, 255);
+    --info-color-t1: rgba(65, 84, 168, 0.85);
+    --info-color-t2: rgba(22, 170, 255, 0.85);
+    --info-bg-1: rgb(212, 220, 255);
+
+    // transparent colors :
+    --bk-100: rgba(255, 255, 255);
+    --bk-95: rgba(255, 255, 255, 0.95);
+    --bk-90: rgba(255, 255, 255, 0.9);
+    --bk-80: rgba(255, 255, 255, 0.8);
+    --bk-70: rgba(255, 255, 255, 0.7);
+    --bk-60: rgba(255, 255, 255, 0.6);
+    --bk-50: rgba(255, 255, 255, 0.5);
+    --bk-40: rgba(255, 255, 255, 0.4);
+    --bk-35: rgba(255, 255, 255, 0.35);
+    --bk-30: rgba(255, 255, 255, 0.3);
+    --bk-20: rgba(255, 255, 255, 0.2);
+    --bk-15: rgba(255, 255, 255, 0.15);
+    --bk-10: rgba(255, 255, 255, 0.1);
+    --bk-05: rgba(255, 255, 255, 0.05);
+    --wt-100: rgba(0, 0, 0);
+    --wt-95: rgba(0, 0, 0, 0.95);
+    --wt-90: rgba(0, 0, 0, 0.9);
+    --wt-80: rgba(0, 0, 0, 0.8);
+    --wt-70: rgba(0, 0, 0, 0.7);
+    --wt-60: rgba(0, 0, 0, 0.6);
+    --wt-50: rgba(0, 0, 0, 0.5);
+    --wt-40: rgba(0, 0, 0, 0.4);
+    --wt-35: rgba(255, 255, 255, 0.35);
+    --wt-30: rgba(0, 0, 0, 0.3);
+    --wt-20: rgba(0, 0, 0, 0.2);
+    --wt-15: rgba(0, 0, 0, 0.15);
+    --wt-10: rgba(0, 0, 0, 0.1);
+    --wt-05: rgba(0, 0, 0, 0.05);
+
+    // colored items :
+    --link-color : var(--red-color-1);
+    --link-color-active : var(--red-color-2);
+    --link-color-hover : var(--red-color-3);
+    --btn-color-1 : var(--red-color-1);
+    --btn-bg-1: rgb(97, 91, 39);
+    --btn-bg-1-active: rgb(47, 128, 47);
+    --btn-bg-1-hover: rgb(110, 110, 48);
+    --btn-bg-1-disabled: var(--bk-30);
+    --btn-color-1-active : var(--green-color-2);
+    --btn-color-1-disabled : var(--bk-50);
+    --btn-color-1-hover : var(--green-color-2);
+    --disabled-color-1 : var(--color-light-1);
+    --disabled-color-2 : var(--color-light-2);
+    --input-color : var(--green-color-1);
+    --input-bg-color : var(--green-color-1);
+    --dropdown-bg-color : var(--main-bg-color);
+    --border-color-1 : var(--bk-50);
+    --border-color-2 : var(--bk-20);
+}

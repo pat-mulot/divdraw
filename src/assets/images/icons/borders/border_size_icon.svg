@@ -1,0 +1,115 @@
+
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="64"
+            height="64"
+          >
+            <foreignObject
+              width="100%"
+              height="100%"
+            >
+            <div xmlns="http://www.w3.org/1999/xhtml" style="
+        position: relative;
+        top: -0px;
+        left: -0px;
+        height: 100%;
+        width: 100%;
+        transform: scaleX(0.125) scaleY(0.125);
+        background-color: transparent;
+        transform-origin: top left;
+      "><div class="BACKGROUND" style="
+        height: 512px;
+        width: 512px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity: 0.01;
+      "></div>
+              <div class="ELEMENT-0" style="
+                box-sizing: border-box;
+                height: 80.0px;width: 512.0px;position: absolute;top: 472.0px;left: 256.0px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 8;
+              ">
+                <div class="ELEMENT-0-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 512.0100000000003px;height: 80px;background-color: transparent;opacity: 1;border: solid 16px #ffffff;"></div></div></div>
+              <div class="ELEMENT-1" style="
+                box-sizing: border-box;
+                height: 160.0px;width: 512.0px;position: absolute;top: 80.0px;left: 256.0px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 12;
+              ">
+                <div class="ELEMENT-1-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 512.0100000000003px;height: 159.99999999999986px;background-color: transparent;opacity: 1;border: solid 16px #ffffff;"></div></div></div>
+              <div class="ELEMENT-2" style="
+                box-sizing: border-box;
+                height: 48.0px;width: 480.0px;position: absolute;top: 472.0px;left: 256.0px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 13;
+              ">
+                <div class="ELEMENT-2-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 480.0100000000001px;height: 48px;background-color: #000000;opacity: 1;"></div></div></div>
+              <div class="ELEMENT-3" style="
+                box-sizing: border-box;
+                height: 128.0px;width: 480.0px;position: absolute;top: 80.0px;left: 256.0px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 14;
+              ">
+                <div class="ELEMENT-3-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 480.0100000000001px;height: 128.02000000000027px;background-color: #000000;opacity: 1;"></div></div></div>
+              <div class="ELEMENT-4" style="
+                box-sizing: border-box;
+                height: 109.0px;width: 512.0px;position: absolute;top: 286.5px;left: 255.0px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 17;
+              ">
+                <div class="ELEMENT-4-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 512.0100000000003px;height: 108.99999999999987px;background-color: transparent;opacity: 1;border: solid 16px #ffffff;"></div></div></div>
+              <div class="ELEMENT-5" style="
+                box-sizing: border-box;
+                height: 80.1px;width: 480.0px;position: absolute;top: 288.0px;left: 256.0px;transform:
+        translate(-50%,-50%)
+        rotate(0deg);z-index: 18;
+              ">
+                <div class="ELEMENT-5-CONTENT" style="
+                  position:relative;
+                  height: 100%;
+                  width: 100%;
+                  overflow: hidden;
+                  box-sizing: border-box;
+                ">
+              <div style="box-sizing: border-box;width: 480.0100000000001px;height: 80.05000000000035px;background-color: #000000;opacity: 1;"></div></div></div></div>
+            </foreignObject>
+        
+          </svg>
+        

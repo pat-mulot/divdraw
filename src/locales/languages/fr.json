@@ -1,0 +1,107 @@
+{
+    "submit" : "Envoyer",
+    "user" : "Utilisateur",
+    "login": "Connexion",
+    "logout": "Deconnexion",
+    "signin": "Connexion",
+    "signup": "S'inscrire'",
+    "field_required_error": "Le champ est requis",
+    "field_type_error": "Le champ ne contient pas le bon type de caractère",
+    "field_type_str_error": "Le champ ne doit contenir que du texte",
+    "products": "Produits",
+    "403_msg" : "Vous n'avez pas les droits suffisant pour accéder a cette ressource...",
+    "fr": "fr",
+    "en": "en",
+    "profile": "Profile",
+    "user_not_authenticated_msg" : "Vous n'êtes pas connecté(e)",
+    "session_expired_msg" : "La session a expiré",
+    "error_msg_title" : "Erreur !",
+    "success_msg_title" : "Succès !",
+    "bad_credentials_msg" : "Mauvaises informations de connexion",
+    "loggin_error_msg" : "Connexion impossible",
+    "loggin_success_welcome_msg" : "Bievenue",
+    "fr_flag_img" : "Image de drapeau Français",
+    "en_flag_img" : "Image de drapeau Anglais",
+    "product_image_alt" : "Image de produit",
+    "product" : "Produit",
+    "products_list" : "Liste des produits",
+    "products_imgs" : "Images des produits",
+    "products_imgs_list" : "Liste des images des produits",
+    "date" : "Date",
+    "devise" : "Devise",
+    "user_id" : "Identifiant utilisateur",
+    "image" : "Image",
+    "updated_at" : "Date de modification",
+    "created_at" : "Date de création",
+    "id" : "Identifiant",
+    "name" : "Nom",
+    "description" : "Description",
+    "quantity" : "Quantité",
+    "hide" : "Masqué",
+    "amount" : "Montant",
+    "status" : "Status",
+    "creator" : "Creator",
+    "move_items_tool" : "Déplacer",
+    "element_pos_y": "Axe Y",
+    "element_pos_x": "Axe X",
+    "element_width": "Largeur",
+    "element_height": "Hauteur",
+    "resize_items_tool": "Redimensionner",
+    "rotate_items_tool" : "Pivoter",
+    "items_list": "Liste des éléments",
+    "document_tool" : "Document",
+    "document_height" : "Hauteur",
+    "document_width" : "Largeur",
+    "shape_items_tool" : "Formes"
+    ,"triangle_shape_top_left" : "Haut gauche"
+    ,"triangle_shape_top_right" : "Haut droite"
+    ,"triangle_shape_bottom_left" : "Bas gauche"
+    ,"triangle_shape_bottom_right" : "Bas droite"
+    ,"elements_save_cancel_success" : "Sauvegarde effacée avec succès"
+    ,"elements_save_success" : "Sauvegarde effectuée avec succès"
+    ,"no_element_selected" : "Aucun élément sélectionné"
+    ,"elements_nb_limit_error" : "Le nombre d'élément dépasse la limite"
+    ,"no_element_to_delete" : "Aucun élément a supprimer"
+    ,"shape_list" : "Liste des formes"
+    ,"round_shape_top_right" : "Haut gauche"
+    ,"round_shape_bottom_right" : "Haut droite"
+    ,"round_shape_bottom_left" : "Bas gauche"
+    ,"round_shape_top_left" : "Bas droite"
+    ,"color_items_tool" : "Couleurs"
+    ,"color_element" : "Couleurs"
+    ,"opacity_element" : "Transparence"
+    ,"opacity_frame" : "Transparence"
+    ,"border_color" : "Couleurs"
+    ,"document_frame_size": "Taille du cadre du document"
+    ,"export_size": "Dimension exportée"
+    ,"border_menu" : "Bordures"
+    ,"border_type_menu" : "Type de bordure"
+    ,"border_width_menu" : "Epaisseur"
+    ,"color_picker" : "Choisir une couleur"
+    ,"cancel_btn": "Annuler"
+    ,"confirm_btn": "Ok"
+    ,"delete_all_elements_confirm_msg": "Supprimer tous les éléments ?"
+    ,"open_as": "Ouvrir..."
+    ,"save_as": "Enregistrer..."
+    ,"export_file_form": "Exporter"
+    ,"export_filename": "Nom"
+    ,"export_type_select": "Type"
+    ,"export_as": "Exporter..."
+    ,"save_local": "Enregistrer"
+    ,"color_menu_title": "Couleurs"
+    ,"element_color": "Couleur de remplissage"
+    ,"element_borders": "Couleur des bordures"
+    ,"group_elements_list": "Liste des éléments"
+    ,"export_height": "Hauteur"
+    ,"export_width": "Largeur"
+    ,"maintain_ratio": "Proportions"
+    ,"title_icons_list": "Icônes"
+    ,"title_icons_borders_list": "Icônes bordures"
+    ,"title_icons_shapes_list": "Icônes formes"
+    ,"title_cursors_list": "Curseurs"
+    ,"title_images_list": "Images"
+    ,"shapes_filter": "Formes"
+    ,"borders_filter": "Bordures"
+    ,"letters_filter": "Lettres"
+    ,"line_shape": "Ligne"
+}

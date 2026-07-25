@@ -1,0 +1,54 @@
+@import "@/assets/css/_reset";
+@import "@/assets/scss/_variables";
+@import "@/assets/scss/_mixins";
+@import "@/assets/scss/_media_queries";
+
+// global
+.base_link {
+    color: var(--link-color);
+    cursor: url("@/assets/images/cursors/cursor_pointer.png"), auto;
+    transition: color var(--anim-duration-2) ease;
+
+    &.active {
+        color: var(--link-color-active);
+    }
+
+    &:hover {
+        color: var(--link-color-hover);
+    }
+}
+
+// tool btns
+button.tool-btn {
+    // background-color: var(--btn-bg-1);
+    background-color: rgba(219, 211, 96, 0.25);
+    outline: none;
+    border: none;
+    border: solid var(--border-sz-2) var(--border-color-1);
+    height: calc(var(--gap) * 2);
+    width: calc(var(--gap) * 2);
+    opacity: 0.5;
+    transition:
+      0.2s background-color ease,
+      0.2s opacity ease;
+    &.active {
+      background-color: var(--btn-bg-1-active);
+      opacity: 1;
+    }
+    &:hover {
+      background-color: var(--btn-bg-1-hover);
+      opacity: 1;
+    }
+    &.disabled {
+      background-color: var(--btn-bg-1-disabled);
+    }
+
+    .icon {
+      @include flex-center-row;
+      height: 100%;
+      width: 100%;
+      line-height: 0;
+      font-size: 1.5em;
+    }
+
+}
