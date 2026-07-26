@@ -1,7 +1,7 @@
 # DivDraw
 Un outil de dessin façon DAO qui tourne entièrement dans le navigateur, mais dont les formes ne sont ni des images ni un canvas : ce sont de simples `div` HTML, positionnées, pivotées et découpées en CSS. Les groupes de formes fusionnés, eux, deviennent du SVG.
-
-🎨 [**Essayer en ligne**](https://pat-mulot.com/games/divdraw/#/en/creator)
+- 🎨 [**Essayer en ligne**](https://pat-mulot.com/games/divdraw/#/en/creator)
+- 🎞️ [**Vidéo de démo**](https://www.youtube.com/watch?v=54F96AuAHUM)
 
 Le principe : on ajoute une forme, elle apparaît sélectionnée avec ses poignées tout autour. On la déplace, on la fait pivoter, on l'étire en cliquant-glissant dessus. À partir de là tout le reste se débloque, les menus latéraux se remplissent, et on dessine.
 
